@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Yuvi25Jain! 👋
+# Hi there, I'm Yuvanshi Bhalawat! 👋
 
 🎓 **Student** passionate about technology and continuous learning.
 
