@@ -22,16 +22,20 @@ Here are some ideas to get you started:
 - **C++ (Data Structures & Algorithms)**
 - **SQL**
 - **HTML & CSS**
+- **Python**
+- **Mongodb**
 
 ## 🤖 Featured Projects
-- **Chatbots**: Building smart conversational agents to automate and enhance user interactions.
+- **AI Powered Student Assistance Chatbot**: A chatbot specifically answer general and personalized queries regarding college.
+- **AI-Powered Hospital Service Comparison & Appointment Assistant**: Built a conversational AI-driven system to compare hospital services based on price, report time, and ratings, enabling smarter user decisions
+- **Smart Patient Symptom Tracker**: Turning health data into actionable insights with scalable, citizen‑centric tech
 
 ## 💡 What Drives Me
 I'm passionate about **Artificial Intelligence** & **Machine Learning**, **Data Science**, and modern **Frontend Development**. I love exploring how tech can solve real-world problems and push boundaries!
 
 ## 🌐 Connect with Me
 - [LinkedIn](http://www.linkedin.com/in/yuvanshi-bhalawat)
-- [Portfolio](https://yuvi25jain.github.io/Personal-Portfolio/)
+- [Portfolio](https://yuvi25jain.github.io/Portfolioo/)
 
 ---
 
