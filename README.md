@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## 🚀 Skills & Technologies
 - **C++ (Data Structures & Algorithms)**
 - **SQL**
-- **HTML & CSS**
+- **Salesforce(Basics)**
 - **Python**
-- **Mongodb**
+-**Prompt Engineering**
 
 ## 🤖 Featured Projects
 - **AI Powered Student Assistance Chatbot**: A chatbot specifically answer general and personalized queries regarding college.
